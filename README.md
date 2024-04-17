@@ -24,7 +24,7 @@ Consulenza personalizzata: I nostri esperti sono pronti a consigliarvi sull'attr
 
 ### Licenza MIT
 
-Copyright © [Anno] [Nome del Negozio di Sci]
+Copyright © 2024 PowderParadise
 
 L'uso di questo software è soggetto ai termini e alle condizioni della licenza MIT, che si applica a tutto il codice sorgente e alla documentazione associata a questo prodotto.
 
@@ -33,7 +33,7 @@ L'uso di questo software è soggetto ai termini e alle condizioni della licenza 
 ```markdown
 Licenza MIT (MIT)
 
-Copyright (c) [Anno]
+Copyright (c) 2024
 
 L'autorizzazione è concessa, a titolo gratuito, a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), di operare il Software senza restrizioni, incluse, senza limitazioni, le utilizzazioni di diritto di svolgere, copiare, modificare, combinare, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software e di consentire alle persone a cui è fornito il Software di farlo, a condizione che venga inclusa la seguente nota di copyright e questa autorizzazione in tutte le copie o parti sostanziali del Software.
 
