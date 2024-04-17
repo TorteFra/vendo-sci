@@ -1,1 +1,3 @@
 # vendo-sci
+
+# info
