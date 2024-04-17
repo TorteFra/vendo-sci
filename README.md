@@ -22,19 +22,17 @@ Consulenza personalizzata: I nostri esperti sono pronti a consigliarvi sull'attr
 - Telefono: +39 0123 456789
 - Email: info@powderparadise.it
 
-### Licenza MIT
+ Copyright (C) 2024 Torterolo Francesco
 
-Copyright © 2024 PowderParadise
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-L'uso di questo software è soggetto ai termini e alle condizioni della licenza MIT, che si applica a tutto il codice sorgente e alla documentazione associata a questo prodotto.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-#### Testo della Licenza
-
-```markdown
-Licenza MIT (MIT)
-
-Copyright (c) 2024
-
-L'autorizzazione è concessa, a titolo gratuito, a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), di operare il Software senza restrizioni, incluse, senza limitazioni, le utilizzazioni di diritto di svolgere, copiare, modificare, combinare, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software e di consentire alle persone a cui è fornito il Software di farlo, a condizione che venga inclusa la seguente nota di copyright e questa autorizzazione in tutte le copie o parti sostanziali del Software.
-
-IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE, INCLUSE, MA NON SOLO, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ A UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I DETENTORI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RICHIESTA, DANNI O ALTRE RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, TORTO O ALTRO, DERIVANTE DA, FUORI O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRE OPERAZIONI NEL SOFTWARE.
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
