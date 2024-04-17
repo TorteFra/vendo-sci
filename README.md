@@ -1,7 +1,7 @@
-# vendo-sci
 
 
-## **Benvenuti nel negozio di sci "Powder Paradise"!**
+
+# **Benvenuti nel negozio di sci "Powder Paradise"!**
 Benvenuti nel negozio di sci "Powder Paradise"! Siamo entusiasti di aiutarvi a trovare l'attrezzatura perfetta per godervi al massimo le vostre avventure sulla neve. Qui di seguito troverete tutte le informazioni necessarie per conoscere il nostro negozio e i nostri servizi.
 
 ## **Chi siamo**
